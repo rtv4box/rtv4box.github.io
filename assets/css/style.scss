@@ -2,3 +2,16 @@
 ---
 
 @import 'jekyll-theme-dinky';
+.background-blue {
+    background-color: rgb(198, 224, 255);
+    font-size: medium;
+}
+.background-dark-blue {
+    border-color: rgb(255, 109, 109);
+    background-color: rgb(189, 82, 82);
+    font-weight: bold;
+    font-size: large;
+}
+.bold-text {
+    font-weight: bold;
+}
